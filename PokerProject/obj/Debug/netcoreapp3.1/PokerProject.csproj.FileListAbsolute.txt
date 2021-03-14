@@ -1,0 +1,13 @@
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\bin\Debug\netcoreapp3.1\PokerProject.exe
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\bin\Debug\netcoreapp3.1\PokerProject.deps.json
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\bin\Debug\netcoreapp3.1\PokerProject.runtimeconfig.json
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\bin\Debug\netcoreapp3.1\PokerProject.runtimeconfig.dev.json
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\bin\Debug\netcoreapp3.1\PokerProject.dll
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\bin\Debug\netcoreapp3.1\PokerProject.pdb
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\obj\Debug\netcoreapp3.1\PokerProject.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\obj\Debug\netcoreapp3.1\PokerProject.AssemblyInfoInputs.cache
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\obj\Debug\netcoreapp3.1\PokerProject.AssemblyInfo.cs
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\obj\Debug\netcoreapp3.1\PokerProject.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\obj\Debug\netcoreapp3.1\PokerProject.dll
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\obj\Debug\netcoreapp3.1\PokerProject.pdb
+C:\Users\Cameron\source\repos\PokerProject\PokerProject\obj\Debug\netcoreapp3.1\PokerProject.genruntimeconfig.cache
